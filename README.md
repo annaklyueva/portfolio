@@ -1,3 +1,3 @@
 # portfolio
 
-My homeworks for course by MIPT and Yandex
+My projects and homeworks for SkolTech and MIPT courses.
